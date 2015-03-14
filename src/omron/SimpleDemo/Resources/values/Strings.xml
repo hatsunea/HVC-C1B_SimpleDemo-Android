@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="App_Name">HVC-C Xamarin Demo</string>
+  <string name="FindButton">Find</string>
+  <string name="StartButton">Start</string>
+  <string name="EndButton">Stop</string>
+  <string name="SelectDevice">select a device</string>
+  <string name="BleNotSupported">Bluetooth Low Energy not supported</string>
+  <string name="PopupTitle">Quit?</string>
+  <string name="PopupMssage">Do you want to quit this Application?</string>
+  <string name="PopupYes">YES</string>
+  <string name="PopupNo">NO</string>
+</resources>
