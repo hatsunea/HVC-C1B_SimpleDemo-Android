@@ -1,4 +1,4 @@
-# HVC-C1B Android-SimpleDemo by OMRON
+# HVC-C1B Xamarin.Android-SimpleDemo by HATSUNE,Akira (Original by OMRON)
 
 ### 1. コード内容  
  本コードはHVC-C1BのAndroid用サンプルプログラムです。  
